@@ -34,6 +34,7 @@ The "Sales Ratio" column has a wide range, with some extreme values.
 
 
 **##Baseline Model: Linear Regression**
+
 As part of the modeling workflow, I started with Linear Regression to establish a baseline for predicting Sale Amount based on property features and location.
 🎯 Why Linear Regression?
 Linear Regression is often used as a starting point to understand how well a linear relationship explains the variation in the target variable.
